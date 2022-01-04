@@ -1,5 +1,7 @@
 # odin-project-landing-page
 
+I built a basic landing page front-end using HTML, CSS, and JavaScript!
+
 Photo Credit:
 Pancake with berries - Alesia Kozik // https://www.pexels.com/@alesiakozik
 Two dogs staring at each other - Alex Kozlov from Pexels // https://www.pexels.com/photo/grayscale-photo-of-man-statue-9598867/
